@@ -24,3 +24,4 @@ def Summoner_ranked_data(summoner_id, api_key):
 
 print(Summoner_data("rusher7", "RGAPI-4f3c507f-0c76-42cb-8bd6-f246415bc02e"))
 print(Summoner_ranked_data("HhD2OXtWjSJ0Ve8-Imq-atiZ_anT9xhMgT085672qH10zQ", "RGAPI-4f3c507f-0c76-42cb-8bd6-f246415bc02e"))
+print("teste")
